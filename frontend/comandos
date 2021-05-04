@@ -1,3 +1,10 @@
 yarn add bootstrap
 yarn add jquery@1.9.1 - 3
 yarn add popper.js@^1.16.1
+
+
+comandos git
+git status
+git add .
+git commit -m ""
+git push
