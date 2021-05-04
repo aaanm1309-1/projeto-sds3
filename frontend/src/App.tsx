@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
 
-        <p>
+        <h1 className="text-primary">
           Ola Adriano.
-        </p>
+        </h1>
 
     </div>
   );
